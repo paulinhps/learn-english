@@ -3,4 +3,4 @@
 ### My Evolution
 
 - [x] Learn about the alphabet
-- [ ] Learn about the Numbers
+- [ ] Learn about the numbers
